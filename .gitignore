@@ -1,0 +1,10 @@
+*.mp3
+*.wav
+*.m4a
+*.flac
+
+__pycache__/
+*.pyc
+
+.vscode/
+
